@@ -1,0 +1,901 @@
+#
+# Results on Friday July 24 2020 15:03:33 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,0,0,Welcome,NULL,PennController,0,_Trial_,Start,1595602519368,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,0,0,Welcome,NULL,PennController,0,_Trial_,End,1595602532571,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,Start,1595602532581,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,Canvas,agecanvas,Print,NA,1595602532596,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,DropDown,age,Selected,19,1595602534973,2
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,DropDown,NativeLang,Selected,Nein,1595602536334,1
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,DropDown,sex,Selected,&nbsp;weiblich&nbsp;,1595602537531,0
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,DropDown,language,Selected,ja,1595602539117,1
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,TextInput,und zwar,Final,,1595602541046,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,End,1595602541046,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,2,0,Instructions,NULL,PennController,2,_Trial_,Start,1595602541048,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,2,0,Instructions,NULL,PennController,2,_Trial_,End,1595602542232,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,PennController,7,_Trial_,Start,1595602542235,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Key,start,PressedKey, ,1595602543622,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Button,context_button,Click,Click,1595602544989,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Key,word1_key,PressedKey, ,1595602545401,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Key,word2_key,PressedKey, ,1595602545755,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Key,word3_key,PressedKey, ,1595602546015,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Key,word4_key,PressedKey, ,1595602546288,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Key,word5_key,PressedKey, ,1595602546567,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,Scale,scale,Choice,3,1595602547737,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,5,0,Examples,NULL,PennController,7,_Trial_,End,1595602548657,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,PennController,8,_Trial_,Start,1595602548660,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Key,start,PressedKey, ,1595602549506,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Button,context_button,Click,Click,1595602550403,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Key,word1_key,PressedKey, ,1595602550764,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Key,word2_key,PressedKey, ,1595602550954,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Key,word3_key,PressedKey, ,1595602551151,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Key,word4_key,PressedKey, ,1595602551319,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Key,word5_key,PressedKey, ,1595602551478,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,Scale,scale,Choice,4,1595602552420,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,6,0,Examples,NULL,PennController,8,_Trial_,End,1595602553316,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,PennController,5,_Trial_,Start,1595602553318,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Key,start,PressedKey, ,1595602554409,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Button,context_button,Click,Click,1595602555402,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Key,word1_key,PressedKey, ,1595602555927,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Key,word2_key,PressedKey, ,1595602556381,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Key,word3_key,PressedKey, ,1595602556656,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Key,word4_key,PressedKey, ,1595602557085,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Key,word5_key,PressedKey, ,1595602557559,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,Scale,scale,Choice,3,1595602558851,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,3,0,Examples,NULL,PennController,5,_Trial_,End,1595602559794,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,PennController,9,_Trial_,Start,1595602559799,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Key,start,PressedKey, ,1595602560941,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Button,context_button,Click,Click,1595602562401,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Key,word1_key,PressedKey, ,1595602563081,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Key,word2_key,PressedKey, ,1595602563481,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Key,word3_key,PressedKey, ,1595602563806,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Key,word4_key,PressedKey, ,1595602564118,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Key,word5_key,PressedKey, ,1595602564412,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,Scale,scale,Choice,3,1595602565448,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,7,0,Examples,NULL,PennController,9,_Trial_,End,1595602566479,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,PennController,6,_Trial_,Start,1595602566480,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Key,start,PressedKey, ,1595602567365,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Button,context_button,Click,Click,1595602568227,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Key,word1_key,PressedKey, ,1595602568814,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Key,word2_key,PressedKey, ,1595602569286,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Key,word3_key,PressedKey, ,1595602569706,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Key,word4_key,PressedKey, ,1595602570080,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Key,word5_key,PressedKey, ,1595602570465,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,Scale,scale,Choice,2,1595602571538,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,4,0,Examples,NULL,PennController,6,_Trial_,End,1595602572310,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,8,0,beforeTrials,NULL,PennController,3,_Trial_,Start,1595602572312,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,8,0,beforeTrials,NULL,PennController,3,_Trial_,End,1595602574753,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Item.
+# 14. Soc_stat.
+# 15. condition.
+# 16. stimuli.
+# 17. Comments.
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,PennController,45,_Trial_,Start,1595602574755,36,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Key,start,PressedKey, ,1595602575852,36,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Button,context_button,Click,Click,1595602577862,36,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Key,word1_key,PressedKey, ,1595602578349,36,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Key,word2_key,PressedKey, ,1595602578736,36,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Key,word3_key,PressedKey, ,1595602579073,36,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Key,word4_key,PressedKey, ,1595602579412,36,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Key,word5_key,PressedKey, ,1595602579736,36,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,Scale,scale,Choice,3,1595602581661,36,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,44,0,trials,NULL,PennController,45,_Trial_,End,1595602583658,36,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,PennController,44,_Trial_,Start,1595602583661,35,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Key,start,PressedKey, ,1595602584511,35,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Button,context_button,Click,Click,1595602586881,35,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Key,word1_key,PressedKey, ,1595602587223,35,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Key,word2_key,PressedKey, ,1595602587578,35,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Key,word3_key,PressedKey, ,1595602587949,35,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Key,word4_key,PressedKey, ,1595602588316,35,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Key,word5_key,PressedKey, ,1595602589116,35,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,Scale,scale,Choice,3,1595602590400,35,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,43,0,trials,NULL,PennController,44,_Trial_,End,1595602591287,35,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,PennController,20,_Trial_,Start,1595602591291,11,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Key,start,PressedKey, ,1595602592160,11,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Button,context_button,Click,Click,1595602593796,11,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Key,word1_key,PressedKey, ,1595602594206,11,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Key,word2_key,PressedKey, ,1595602594553,11,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Key,word3_key,PressedKey, ,1595602594859,11,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Key,word4_key,PressedKey, ,1595602595173,11,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Key,word5_key,PressedKey, ,1595602595485,11,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,Scale,scale,Choice,2,1595602596954,11,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,19,0,trials,NULL,PennController,20,_Trial_,End,1595602597544,11,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,PennController,72,_Trial_,Start,1595602597548,23,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Key,start,PressedKey, ,1595602598414,23,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Button,context_button,Click,Click,1595602599519,23,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Key,word1_key,PressedKey, ,1595602599968,23,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Key,word2_key,PressedKey, ,1595602600517,23,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Key,word3_key,PressedKey, ,1595602600920,23,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Key,word4_key,PressedKey, ,1595602601351,23,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Key,word5_key,PressedKey, ,1595602601818,23,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,Scale,scale,Choice,5,1595602603399,23,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,71,0,trials,NULL,PennController,72,_Trial_,End,1595602604078,23,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,PennController,88,_Trial_,Start,1595602604080,39,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Key,start,PressedKey, ,1595602604616,39,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Button,context_button,Click,Click,1595602606521,39,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Key,word1_key,PressedKey, ,1595602606948,39,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Key,word2_key,PressedKey, ,1595602607284,39,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Key,word3_key,PressedKey, ,1595602607556,39,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Key,word4_key,PressedKey, ,1595602607842,39,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Key,word5_key,PressedKey, ,1595602608163,39,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,Scale,scale,Choice,2,1595602609690,39,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,87,0,trials,NULL,PennController,88,_Trial_,End,1595602611246,39,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,PennController,77,_Trial_,Start,1595602611248,27,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Key,start,PressedKey, ,1595602612681,27,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Button,context_button,Click,Click,1595602614046,27,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Key,word1_key,PressedKey, ,1595602614442,27,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Key,word2_key,PressedKey, ,1595602614855,27,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Key,word3_key,PressedKey, ,1595602615223,27,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Key,word4_key,PressedKey, ,1595602615619,27,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Key,word5_key,PressedKey, ,1595602616039,27,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,Scale,scale,Choice,4,1595602617347,27,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,76,0,trials,NULL,PennController,77,_Trial_,End,1595602618170,27,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,PennController,31,_Trial_,Start,1595602618173,22,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Key,start,PressedKey, ,1595602619107,22,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Button,context_button,Click,Click,1595602620253,22,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Key,word1_key,PressedKey, ,1595602620744,22,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Key,word2_key,PressedKey, ,1595602621223,22,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Key,word3_key,PressedKey, ,1595602621664,22,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Key,word4_key,PressedKey, ,1595602622063,22,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Key,word5_key,PressedKey, ,1595602622467,22,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,Scale,scale,Choice,2,1595602623383,22,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,30,0,trials,NULL,PennController,31,_Trial_,End,1595602624382,22,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,PennController,55,_Trial_,Start,1595602624385,5,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Key,start,PressedKey, ,1595602625573,5,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Button,context_button,Click,Click,1595602627206,5,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Key,word1_key,PressedKey, ,1595602627754,5,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Key,word2_key,PressedKey, ,1595602628263,5,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Key,word3_key,PressedKey, ,1595602628716,5,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Key,word4_key,PressedKey, ,1595602629080,5,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Key,word5_key,PressedKey, ,1595602629458,5,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,Scale,scale,Choice,4,1595602632125,5,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,54,0,trials,NULL,PennController,55,_Trial_,End,1595602633741,5,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,PennController,54,_Trial_,Start,1595602633743,5,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Key,start,PressedKey, ,1595602634711,5,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Button,context_button,Click,Click,1595602635929,5,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Key,word1_key,PressedKey, ,1595602636394,5,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Key,word2_key,PressedKey, ,1595602636789,5,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Key,word3_key,PressedKey, ,1595602637153,5,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Key,word4_key,PressedKey, ,1595602637494,5,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Key,word5_key,PressedKey, ,1595602637855,5,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,Scale,scale,Choice,3,1595602639026,5,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,53,0,trials,NULL,PennController,54,_Trial_,End,1595602639704,5,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,PennController,27,_Trial_,Start,1595602639705,18,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Key,start,PressedKey, ,1595602641036,18,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Button,context_button,Click,Click,1595602642676,18,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Key,word1_key,PressedKey, ,1595602643319,18,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Key,word2_key,PressedKey, ,1595602643744,18,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Key,word3_key,PressedKey, ,1595602644039,18,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Key,word4_key,PressedKey, ,1595602644366,18,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Key,word5_key,PressedKey, ,1595602644651,18,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,Scale,scale,Choice,2,1595602646827,18,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,26,0,trials,NULL,PennController,27,_Trial_,End,1595602647494,18,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,PennController,80,_Trial_,Start,1595602647495,31,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Key,start,PressedKey, ,1595602648445,31,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Button,context_button,Click,Click,1595602649790,31,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Key,word1_key,PressedKey, ,1595602650352,31,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Key,word2_key,PressedKey, ,1595602650685,31,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Key,word3_key,PressedKey, ,1595602650937,31,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Key,word4_key,PressedKey, ,1595602651175,31,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Key,word5_key,PressedKey, ,1595602651475,31,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,Scale,scale,Choice,4,1595602652830,31,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,79,0,trials,NULL,PennController,80,_Trial_,End,1595602653660,31,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,PennController,16,_Trial_,Start,1595602653662,7,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Key,start,PressedKey, ,1595602655025,7,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Button,context_button,Click,Click,1595602656052,7,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Key,word1_key,PressedKey, ,1595602656541,7,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Key,word2_key,PressedKey, ,1595602656880,7,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Key,word3_key,PressedKey, ,1595602657139,7,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Key,word4_key,PressedKey, ,1595602657436,7,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Key,word5_key,PressedKey, ,1595602657713,7,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,Scale,scale,Choice,2,1595602659147,7,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,15,0,trials,NULL,PennController,16,_Trial_,End,1595602659782,7,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,PennController,82,_Trial_,Start,1595602659783,33,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Key,start,PressedKey, ,1595602660639,33,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Button,context_button,Click,Click,1595602661831,33,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Key,word1_key,PressedKey, ,1595602662374,33,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Key,word2_key,PressedKey, ,1595602662675,33,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Key,word3_key,PressedKey, ,1595602662928,33,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Key,word4_key,PressedKey, ,1595602663325,33,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Key,word5_key,PressedKey, ,1595602663653,33,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,Scale,scale,Choice,3,1595602664497,33,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,81,0,trials,NULL,PennController,82,_Trial_,End,1595602665113,33,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,PennController,68,_Trial_,Start,1595602665115,19,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Key,start,PressedKey, ,1595602666303,19,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Button,context_button,Click,Click,1595602667489,19,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Key,word1_key,PressedKey, ,1595602667901,19,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Key,word2_key,PressedKey, ,1595602668195,19,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Key,word3_key,PressedKey, ,1595602668465,19,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Key,word4_key,PressedKey, ,1595602668709,19,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Key,word5_key,PressedKey, ,1595602669009,19,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,Scale,scale,Choice,3,1595602671007,19,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,67,0,trials,NULL,PennController,68,_Trial_,End,1595602671608,19,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,PennController,17,_Trial_,Start,1595602671609,8,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Key,start,PressedKey, ,1595602673943,8,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Button,context_button,Click,Click,1595602674949,8,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Key,word1_key,PressedKey, ,1595602675305,8,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Key,word2_key,PressedKey, ,1595602675573,8,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Key,word3_key,PressedKey, ,1595602675809,8,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Key,word4_key,PressedKey, ,1595602676021,8,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Key,word5_key,PressedKey, ,1595602676259,8,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,Scale,scale,Choice,3,1595602677365,8,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,16,0,trials,NULL,PennController,17,_Trial_,End,1595602678167,8,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,PennController,13,_Trial_,Start,1595602678169,4,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Key,start,PressedKey, ,1595602678988,4,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Button,context_button,Click,Click,1595602679948,4,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Key,word1_key,PressedKey, ,1595602680297,4,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Key,word2_key,PressedKey, ,1595602680526,4,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Key,word3_key,PressedKey, ,1595602680745,4,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Key,word4_key,PressedKey, ,1595602680977,4,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Key,word5_key,PressedKey, ,1595602681205,4,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,Scale,scale,Choice,4,1595602682175,4,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,12,0,trials,NULL,PennController,13,_Trial_,End,1595602682703,4,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,PennController,83,_Trial_,Start,1595602682705,33,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Key,start,PressedKey, ,1595602683507,33,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Button,context_button,Click,Click,1595602684215,33,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Key,word1_key,PressedKey, ,1595602684625,33,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Key,word2_key,PressedKey, ,1595602684845,33,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Key,word3_key,PressedKey, ,1595602685062,33,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Key,word4_key,PressedKey, ,1595602685287,33,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Key,word5_key,PressedKey, ,1595602685522,33,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,Scale,scale,Choice,4,1595602686329,33,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,82,0,trials,NULL,PennController,83,_Trial_,End,1595602686832,33,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,PennController,25,_Trial_,Start,1595602686835,16,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Key,start,PressedKey, ,1595602687656,16,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Button,context_button,Click,Click,1595602688719,16,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Key,word1_key,PressedKey, ,1595602689348,16,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Key,word2_key,PressedKey, ,1595602689679,16,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Key,word3_key,PressedKey, ,1595602689893,16,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Key,word4_key,PressedKey, ,1595602690163,16,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Key,word5_key,PressedKey, ,1595602690404,16,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,Scale,scale,Choice,3,1595602691472,16,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,24,0,trials,NULL,PennController,25,_Trial_,End,1595602692117,16,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,PennController,33,_Trial_,Start,1595602692119,24,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Key,start,PressedKey, ,1595602692920,24,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Button,context_button,Click,Click,1595602694002,24,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Key,word1_key,PressedKey, ,1595602694507,24,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Key,word2_key,PressedKey, ,1595602694916,24,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Key,word3_key,PressedKey, ,1595602695240,24,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Key,word4_key,PressedKey, ,1595602695510,24,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Key,word5_key,PressedKey, ,1595602695775,24,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,Scale,scale,Choice,3,1595602697156,24,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,32,0,trials,NULL,PennController,33,_Trial_,End,1595602697842,24,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,PennController,85,_Trial_,Start,1595602697843,35,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Key,start,PressedKey, ,1595602698986,35,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Button,context_button,Click,Click,1595602700063,35,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Key,word1_key,PressedKey, ,1595602700510,35,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Key,word2_key,PressedKey, ,1595602700738,35,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Key,word3_key,PressedKey, ,1595602700970,35,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Key,word4_key,PressedKey, ,1595602701215,35,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Key,word5_key,PressedKey, ,1595602701481,35,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,Scale,scale,Choice,4,1595602702456,35,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,84,0,trials,NULL,PennController,85,_Trial_,End,1595602703129,35,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,PennController,89,_Trial_,Start,1595602703130,39,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Key,start,PressedKey, ,1595602703948,39,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Button,context_button,Click,Click,1595602704849,39,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Key,word1_key,PressedKey, ,1595602705311,39,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Key,word2_key,PressedKey, ,1595602705677,39,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Key,word3_key,PressedKey, ,1595602705950,39,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Key,word4_key,PressedKey, ,1595602706176,39,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Key,word5_key,PressedKey, ,1595602706416,39,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,Scale,scale,Choice,2,1595602707409,39,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,88,0,trials,NULL,PennController,89,_Trial_,End,1595602708257,39,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,PennController,23,_Trial_,Start,1595602708259,14,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Key,start,PressedKey, ,1595602709081,14,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Button,context_button,Click,Click,1595602710269,14,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Key,word1_key,PressedKey, ,1595602710791,14,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Key,word2_key,PressedKey, ,1595602711241,14,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Key,word3_key,PressedKey, ,1595602711573,14,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Key,word4_key,PressedKey, ,1595602711875,14,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Key,word5_key,PressedKey, ,1595602712221,14,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,Scale,scale,Choice,4,1595602713669,14,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,22,0,trials,NULL,PennController,23,_Trial_,End,1595602714527,14,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,PennController,57,_Trial_,Start,1595602714529,7,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Key,start,PressedKey, ,1595602715386,7,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Button,context_button,Click,Click,1595602716522,7,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Key,word1_key,PressedKey, ,1595602716911,7,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Key,word2_key,PressedKey, ,1595602717177,7,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Key,word3_key,PressedKey, ,1595602717458,7,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Key,word4_key,PressedKey, ,1595602717715,7,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Key,word5_key,PressedKey, ,1595602718031,7,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,Scale,scale,Choice,1,1595602719409,7,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,56,0,trials,NULL,PennController,57,_Trial_,End,1595602720223,7,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,PennController,39,_Trial_,Start,1595602720224,30,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Key,start,PressedKey, ,1595602720940,30,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Button,context_button,Click,Click,1595602722166,30,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Key,word1_key,PressedKey, ,1595602722598,30,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Key,word2_key,PressedKey, ,1595602722914,30,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Key,word3_key,PressedKey, ,1595602723304,30,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Key,word4_key,PressedKey, ,1595602723572,30,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Key,word5_key,PressedKey, ,1595602723908,30,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,Scale,scale,Choice,5,1595602725583,30,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,38,0,trials,NULL,PennController,39,_Trial_,End,1595602726542,30,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,PennController,29,_Trial_,Start,1595602726544,20,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Key,start,PressedKey, ,1595602727095,20,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Button,context_button,Click,Click,1595602728278,20,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Key,word1_key,PressedKey, ,1595602728658,20,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Key,word2_key,PressedKey, ,1595602728942,20,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Key,word3_key,PressedKey, ,1595602729245,20,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Key,word4_key,PressedKey, ,1595602729526,20,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Key,word5_key,PressedKey, ,1595602729850,20,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,Scale,scale,Choice,1,1595602731411,20,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,28,0,trials,NULL,PennController,29,_Trial_,End,1595602732179,20,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,PennController,19,_Trial_,Start,1595602732181,10,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Key,start,PressedKey, ,1595602733410,10,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Button,context_button,Click,Click,1595602734419,10,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Key,word1_key,PressedKey, ,1595602734678,10,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Key,word2_key,PressedKey, ,1595602734956,10,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Key,word3_key,PressedKey, ,1595602735207,10,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Key,word4_key,PressedKey, ,1595602735449,10,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Key,word5_key,PressedKey, ,1595602735705,10,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,Scale,scale,Choice,3,1595602736594,10,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,18,0,trials,NULL,PennController,19,_Trial_,End,1595602737695,10,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,PennController,64,_Trial_,Start,1595602737696,15,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Key,start,PressedKey, ,1595602738598,15,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Button,context_button,Click,Click,1595602739473,15,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Key,word1_key,PressedKey, ,1595602739800,15,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Key,word2_key,PressedKey, ,1595602740134,15,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Key,word3_key,PressedKey, ,1595602740480,15,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Key,word4_key,PressedKey, ,1595602740744,15,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Key,word5_key,PressedKey, ,1595602740986,15,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,Scale,scale,Choice,3,1595602742098,15,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,63,0,trials,NULL,PennController,64,_Trial_,End,1595602742741,15,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,PennController,28,_Trial_,Start,1595602742743,19,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Key,start,PressedKey, ,1595602743549,19,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Button,context_button,Click,Click,1595602744579,19,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Key,word1_key,PressedKey, ,1595602744919,19,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Key,word2_key,PressedKey, ,1595602745285,19,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Key,word3_key,PressedKey, ,1595602745588,19,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Key,word4_key,PressedKey, ,1595602745879,19,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Key,word5_key,PressedKey, ,1595602746138,19,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,Scale,scale,Choice,3,1595602746933,19,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,27,0,trials,NULL,PennController,28,_Trial_,End,1595602747469,19,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,PennController,48,_Trial_,Start,1595602747471,39,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Key,start,PressedKey, ,1595602750511,39,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Button,context_button,Click,Click,1595602751235,39,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Key,word1_key,PressedKey, ,1595602751505,39,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Key,word2_key,PressedKey, ,1595602751753,39,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Key,word3_key,PressedKey, ,1595602751949,39,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Key,word4_key,PressedKey, ,1595602752189,39,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Key,word5_key,PressedKey, ,1595602752560,39,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,Scale,scale,Choice,3,1595602753645,39,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,47,0,trials,NULL,PennController,48,_Trial_,End,1595602754331,39,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,PennController,79,_Trial_,Start,1595602754333,29,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Key,start,PressedKey, ,1595602755191,29,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Button,context_button,Click,Click,1595602755906,29,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Key,word1_key,PressedKey, ,1595602756240,29,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Key,word2_key,PressedKey, ,1595602756616,29,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Key,word3_key,PressedKey, ,1595602756927,29,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Key,word4_key,PressedKey, ,1595602757193,29,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Key,word5_key,PressedKey, ,1595602757542,29,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,Scale,scale,Choice,4,1595602758402,29,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,78,0,trials,NULL,PennController,79,_Trial_,End,1595602758936,29,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,PennController,30,_Trial_,Start,1595602758938,21,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Key,start,PressedKey, ,1595602759747,21,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Button,context_button,Click,Click,1595602760306,21,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Key,word1_key,PressedKey, ,1595602760669,21,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Key,word2_key,PressedKey, ,1595602760939,21,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Key,word3_key,PressedKey, ,1595602761171,21,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Key,word4_key,PressedKey, ,1595602761355,21,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Key,word5_key,PressedKey, ,1595602761556,21,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,Scale,scale,Choice,1,1595602762581,21,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,29,0,trials,NULL,PennController,30,_Trial_,End,1595602763150,21,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,PennController,78,_Trial_,Start,1595602763151,29,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Key,start,PressedKey, ,1595602764077,29,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Button,context_button,Click,Click,1595602764973,29,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Key,word1_key,PressedKey, ,1595602765335,29,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Key,word2_key,PressedKey, ,1595602765631,29,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Key,word3_key,PressedKey, ,1595602765884,29,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Key,word4_key,PressedKey, ,1595602766145,29,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Key,word5_key,PressedKey, ,1595602766376,29,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,Scale,scale,Choice,3,1595602768557,29,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,77,0,trials,NULL,PennController,78,_Trial_,End,1595602769310,29,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,PennController,41,_Trial_,Start,1595602769311,32,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Key,start,PressedKey, ,1595602770120,32,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Button,context_button,Click,Click,1595602771078,32,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Key,word1_key,PressedKey, ,1595602771675,32,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Key,word2_key,PressedKey, ,1595602771993,32,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Key,word3_key,PressedKey, ,1595602772253,32,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Key,word4_key,PressedKey, ,1595602772473,32,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Key,word5_key,PressedKey, ,1595602772723,32,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,Scale,scale,Choice,3,1595602774817,32,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,40,0,trials,NULL,PennController,41,_Trial_,End,1595602776085,32,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,PennController,81,_Trial_,Start,1595602776086,31,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Key,start,PressedKey, ,1595602776874,31,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Button,context_button,Click,Click,1595602777775,31,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Key,word1_key,PressedKey, ,1595602778263,31,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Key,word2_key,PressedKey, ,1595602778574,31,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Key,word3_key,PressedKey, ,1595602778806,31,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Key,word4_key,PressedKey, ,1595602779103,31,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Key,word5_key,PressedKey, ,1595602779343,31,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,Scale,scale,Choice,4,1595602780667,31,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,80,0,trials,NULL,PennController,81,_Trial_,End,1595602781423,31,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,PennController,18,_Trial_,Start,1595602781425,9,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Key,start,PressedKey, ,1595602782289,9,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Button,context_button,Click,Click,1595602783155,9,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Key,word1_key,PressedKey, ,1595602783489,9,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Key,word2_key,PressedKey, ,1595602783709,9,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Key,word3_key,PressedKey, ,1595602783908,9,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Key,word4_key,PressedKey, ,1595602784145,9,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Key,word5_key,PressedKey, ,1595602784337,9,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,Scale,scale,Choice,2,1595602785691,9,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,17,0,trials,NULL,PennController,18,_Trial_,End,1595602786390,9,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,PennController,46,_Trial_,Start,1595602786390,37,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Key,start,PressedKey, ,1595602787136,37,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Button,context_button,Click,Click,1595602788153,37,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Key,word1_key,PressedKey, ,1595602788597,37,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Key,word2_key,PressedKey, ,1595602788909,37,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Key,word3_key,PressedKey, ,1595602789141,37,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Key,word4_key,PressedKey, ,1595602789360,37,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Key,word5_key,PressedKey, ,1595602789595,37,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,Scale,scale,Choice,3,1595602790572,37,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,45,0,trials,NULL,PennController,46,_Trial_,End,1595602791266,37,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,PennController,71,_Trial_,Start,1595602791267,21,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Key,start,PressedKey, ,1595602792094,21,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Button,context_button,Click,Click,1595602793226,21,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Key,word1_key,PressedKey, ,1595602793501,21,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Key,word2_key,PressedKey, ,1595602793797,21,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Key,word3_key,PressedKey, ,1595602794057,21,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Key,word4_key,PressedKey, ,1595602794297,21,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Key,word5_key,PressedKey, ,1595602794497,21,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,Scale,scale,Choice,1,1595602795369,21,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,70,0,trials,NULL,PennController,71,_Trial_,End,1595602795891,21,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,PennController,24,_Trial_,Start,1595602795893,15,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Key,start,PressedKey, ,1595602796768,15,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Button,context_button,Click,Click,1595602797950,15,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Key,word1_key,PressedKey, ,1595602798405,15,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Key,word2_key,PressedKey, ,1595602798748,15,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Key,word3_key,PressedKey, ,1595602798999,15,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Key,word4_key,PressedKey, ,1595602799281,15,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Key,word5_key,PressedKey, ,1595602799527,15,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,Scale,scale,Choice,5,1595602800781,15,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,23,0,trials,NULL,PennController,24,_Trial_,End,1595602801541,15,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,PennController,74,_Trial_,Start,1595602801543,25,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Key,start,PressedKey, ,1595602802423,25,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Button,context_button,Click,Click,1595602803507,25,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Key,word1_key,PressedKey, ,1595602804130,25,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Key,word2_key,PressedKey, ,1595602804479,25,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Key,word3_key,PressedKey, ,1595602804738,25,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Key,word4_key,PressedKey, ,1595602804980,25,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Key,word5_key,PressedKey, ,1595602805250,25,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,Scale,scale,Choice,3,1595602806033,25,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,73,0,trials,NULL,PennController,74,_Trial_,End,1595602806683,25,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,PennController,47,_Trial_,Start,1595602806685,38,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Key,start,PressedKey, ,1595602807603,38,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Button,context_button,Click,Click,1595602808451,38,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Key,word1_key,PressedKey, ,1595602808823,38,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Key,word2_key,PressedKey, ,1595602809092,38,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Key,word3_key,PressedKey, ,1595602809316,38,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Key,word4_key,PressedKey, ,1595602809567,38,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Key,word5_key,PressedKey, ,1595602809819,38,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,Scale,scale,Choice,1,1595602811467,38,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,46,0,trials,NULL,PennController,47,_Trial_,End,1595602812137,38,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,PennController,38,_Trial_,Start,1595602812138,29,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Key,start,PressedKey, ,1595602813020,29,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Button,context_button,Click,Click,1595602814191,29,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Key,word1_key,PressedKey, ,1595602814560,29,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Key,word2_key,PressedKey, ,1595602814846,29,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Key,word3_key,PressedKey, ,1595602815073,29,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Key,word4_key,PressedKey, ,1595602815322,29,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Key,word5_key,PressedKey, ,1595602815547,29,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,Scale,scale,Choice,2,1595602816481,29,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,37,0,trials,NULL,PennController,38,_Trial_,End,1595602817132,29,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,PennController,63,_Trial_,Start,1595602817134,13,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Key,start,PressedKey, ,1595602818179,13,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Button,context_button,Click,Click,1595602819102,13,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Key,word1_key,PressedKey, ,1595602819558,13,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Key,word2_key,PressedKey, ,1595602819851,13,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Key,word3_key,PressedKey, ,1595602820069,13,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Key,word4_key,PressedKey, ,1595602820286,13,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Key,word5_key,PressedKey, ,1595602820511,13,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,Scale,scale,Choice,4,1595602821470,13,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,62,0,trials,NULL,PennController,63,_Trial_,End,1595602821986,13,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,PennController,69,_Trial_,Start,1595602821988,19,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Key,start,PressedKey, ,1595602822767,19,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Button,context_button,Click,Click,1595602823621,19,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Key,word1_key,PressedKey, ,1595602824217,19,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Key,word2_key,PressedKey, ,1595602824526,19,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Key,word3_key,PressedKey, ,1595602824764,19,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Key,word4_key,PressedKey, ,1595602825040,19,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Key,word5_key,PressedKey, ,1595602825275,19,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,Scale,scale,Choice,2,1595602826177,19,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,68,0,trials,NULL,PennController,69,_Trial_,End,1595602826811,19,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,PennController,62,_Trial_,Start,1595602826812,13,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Key,start,PressedKey, ,1595602827685,13,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Button,context_button,Click,Click,1595602828714,13,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Key,word1_key,PressedKey, ,1595602829073,13,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Key,word2_key,PressedKey, ,1595602829307,13,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Key,word3_key,PressedKey, ,1595602829518,13,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Key,word4_key,PressedKey, ,1595602829756,13,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Key,word5_key,PressedKey, ,1595602829991,13,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,Scale,scale,Choice,4,1595602830780,13,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,61,0,trials,NULL,PennController,62,_Trial_,End,1595602831297,13,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,PennController,65,_Trial_,Start,1595602831298,15,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Key,start,PressedKey, ,1595602832103,15,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Button,context_button,Click,Click,1595602832717,15,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Key,word1_key,PressedKey, ,1595602833052,15,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Key,word2_key,PressedKey, ,1595602833297,15,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Key,word3_key,PressedKey, ,1595602833476,15,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Key,word4_key,PressedKey, ,1595602833676,15,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Key,word5_key,PressedKey, ,1595602833881,15,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,Scale,scale,Choice,2,1595602834605,15,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,64,0,trials,NULL,PennController,65,_Trial_,End,1595602835559,15,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,PennController,58,_Trial_,Start,1595602835560,9,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Key,start,PressedKey, ,1595602836280,9,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Button,context_button,Click,Click,1595602837400,9,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Key,word1_key,PressedKey, ,1595602837712,9,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Key,word2_key,PressedKey, ,1595602838005,9,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Key,word3_key,PressedKey, ,1595602838255,9,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Key,word4_key,PressedKey, ,1595602838497,9,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Key,word5_key,PressedKey, ,1595602838730,9,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,Scale,scale,Choice,2,1595602840013,9,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,57,0,trials,NULL,PennController,58,_Trial_,End,1595602840507,9,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,PennController,21,_Trial_,Start,1595602840508,12,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Key,start,PressedKey, ,1595602841288,12,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Button,context_button,Click,Click,1595602842398,12,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Key,word1_key,PressedKey, ,1595602843840,12,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Key,word2_key,PressedKey, ,1595602844132,12,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Key,word3_key,PressedKey, ,1595602844342,12,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Key,word4_key,PressedKey, ,1595602844546,12,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Key,word5_key,PressedKey, ,1595602844745,12,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,Scale,scale,Choice,4,1595602845823,12,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,20,0,trials,NULL,PennController,21,_Trial_,End,1595602846399,12,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,PennController,73,_Trial_,Start,1595602846401,23,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Key,start,PressedKey, ,1595602847179,23,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Button,context_button,Click,Click,1595602848113,23,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Key,word1_key,PressedKey, ,1595602848646,23,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Key,word2_key,PressedKey, ,1595602848920,23,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Key,word3_key,PressedKey, ,1595602849169,23,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Key,word4_key,PressedKey, ,1595602849445,23,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Key,word5_key,PressedKey, ,1595602849698,23,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,Scale,scale,Choice,4,1595602850887,23,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,72,0,trials,NULL,PennController,73,_Trial_,End,1595602851649,23,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,PennController,35,_Trial_,Start,1595602851650,26,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Key,start,PressedKey, ,1595602852511,26,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Button,context_button,Click,Click,1595602853584,26,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Key,word1_key,PressedKey, ,1595602853937,26,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Key,word2_key,PressedKey, ,1595602854288,26,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Key,word3_key,PressedKey, ,1595602854612,26,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Key,word4_key,PressedKey, ,1595602854913,26,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Key,word5_key,PressedKey, ,1595602855241,26,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,Scale,scale,Choice,4,1595602856417,26,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,34,0,trials,NULL,PennController,35,_Trial_,End,1595602856997,26,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,PennController,52,_Trial_,Start,1595602856998,3,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Key,start,PressedKey, ,1595602857896,3,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Button,context_button,Click,Click,1595602858819,3,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Key,word1_key,PressedKey, ,1595602859186,3,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Key,word2_key,PressedKey, ,1595602859415,3,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Key,word3_key,PressedKey, ,1595602859739,3,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Key,word4_key,PressedKey, ,1595602859992,3,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Key,word5_key,PressedKey, ,1595602860236,3,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,Scale,scale,Choice,4,1595602861067,3,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,51,0,trials,NULL,PennController,52,_Trial_,End,1595602861639,3,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,PennController,84,_Trial_,Start,1595602861641,35,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Key,start,PressedKey, ,1595602862867,35,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Button,context_button,Click,Click,1595602863619,35,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Key,word1_key,PressedKey, ,1595602864147,35,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Key,word2_key,PressedKey, ,1595602864458,35,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Key,word3_key,PressedKey, ,1595602864640,35,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Key,word4_key,PressedKey, ,1595602864823,35,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Key,word5_key,PressedKey, ,1595602865011,35,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,Scale,scale,Choice,1,1595602866499,35,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,83,0,trials,NULL,PennController,84,_Trial_,End,1595602867285,35,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,PennController,53,_Trial_,Start,1595602867287,3,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Key,start,PressedKey, ,1595602868853,3,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Button,context_button,Click,Click,1595602869777,3,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Key,word1_key,PressedKey, ,1595602870220,3,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Key,word2_key,PressedKey, ,1595602870439,3,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Key,word3_key,PressedKey, ,1595602870699,3,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Key,word4_key,PressedKey, ,1595602870931,3,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Key,word5_key,PressedKey, ,1595602871165,3,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,Scale,scale,Choice,5,1595602872125,3,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,52,0,trials,NULL,PennController,53,_Trial_,End,1595602873159,3,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,PennController,86,_Trial_,Start,1595602873160,37,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Key,start,PressedKey, ,1595602873753,37,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Button,context_button,Click,Click,1595602874673,37,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Key,word1_key,PressedKey, ,1595602874995,37,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Key,word2_key,PressedKey, ,1595602875257,37,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Key,word3_key,PressedKey, ,1595602875511,37,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Key,word4_key,PressedKey, ,1595602875745,37,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Key,word5_key,PressedKey, ,1595602875987,37,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,Scale,scale,Choice,0,1595602877347,37,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,85,0,trials,NULL,PennController,86,_Trial_,End,1595602878115,37,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,PennController,75,_Trial_,Start,1595602878117,25,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Key,start,PressedKey, ,1595602878852,25,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Button,context_button,Click,Click,1595602879839,25,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Key,word1_key,PressedKey, ,1595602880236,25,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Key,word2_key,PressedKey, ,1595602880520,25,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Key,word3_key,PressedKey, ,1595602880770,25,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Key,word4_key,PressedKey, ,1595602881007,25,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Key,word5_key,PressedKey, ,1595602881254,25,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,Scale,scale,Choice,3,1595602881986,25,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,74,0,trials,NULL,PennController,75,_Trial_,End,1595602882799,25,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,PennController,15,_Trial_,Start,1595602882800,6,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Key,start,PressedKey, ,1595602883775,6,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Button,context_button,Click,Click,1595602884725,6,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Key,word1_key,PressedKey, ,1595602885096,6,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Key,word2_key,PressedKey, ,1595602885398,6,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Key,word3_key,PressedKey, ,1595602885621,6,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Key,word4_key,PressedKey, ,1595602885831,6,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Key,word5_key,PressedKey, ,1595602886040,6,high,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,Scale,scale,Choice,3,1595602886914,6,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,14,0,trials,NULL,PennController,15,_Trial_,End,1595602887579,6,high,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,PennController,34,_Trial_,Start,1595602887580,25,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Key,start,PressedKey, ,1595602888660,25,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Button,context_button,Click,Click,1595602889707,25,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Key,word1_key,PressedKey, ,1595602890189,25,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Key,word2_key,PressedKey, ,1595602890524,25,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Key,word3_key,PressedKey, ,1595602890806,25,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Key,word4_key,PressedKey, ,1595602891041,25,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Key,word5_key,PressedKey, ,1595602891280,25,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,Scale,scale,Choice,3,1595602892441,25,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,33,0,trials,NULL,PennController,34,_Trial_,End,1595602893721,25,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,PennController,66,_Trial_,Start,1595602893723,17,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Key,start,PressedKey, ,1595602894465,17,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Button,context_button,Click,Click,1595602895298,17,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Key,word1_key,PressedKey, ,1595602895644,17,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Key,word2_key,PressedKey, ,1595602895933,17,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Key,word3_key,PressedKey, ,1595602896159,17,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Key,word4_key,PressedKey, ,1595602896373,17,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Key,word5_key,PressedKey, ,1595602896558,17,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,Scale,scale,Choice,3,1595602897435,17,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,65,0,trials,NULL,PennController,66,_Trial_,End,1595602898011,17,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,PennController,76,_Trial_,Start,1595602898012,27,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Key,start,PressedKey, ,1595602898767,27,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Button,context_button,Click,Click,1595602899713,27,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Key,word1_key,PressedKey, ,1595602899989,27,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Key,word2_key,PressedKey, ,1595602900297,27,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Key,word3_key,PressedKey, ,1595602900515,27,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Key,word4_key,PressedKey, ,1595602900684,27,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Key,word5_key,PressedKey, ,1595602900888,27,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,Scale,scale,Choice,2,1595602901863,27,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,75,0,trials,NULL,PennController,76,_Trial_,End,1595602902477,27,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,PennController,43,_Trial_,Start,1595602902479,34,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Key,start,PressedKey, ,1595602903281,34,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Button,context_button,Click,Click,1595602904089,34,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Key,word1_key,PressedKey, ,1595602904787,34,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Key,word2_key,PressedKey, ,1595602905035,34,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Key,word3_key,PressedKey, ,1595602905323,34,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Key,word4_key,PressedKey, ,1595602905583,34,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Key,word5_key,PressedKey, ,1595602905810,34,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,Scale,scale,Choice,3,1595602906603,34,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,42,0,trials,NULL,PennController,43,_Trial_,End,1595602907673,34,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,PennController,10,_Trial_,Start,1595602907675,1,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Key,start,PressedKey, ,1595602908358,1,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Button,context_button,Click,Click,1595602909570,1,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Key,word1_key,PressedKey, ,1595602910050,1,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Key,word2_key,PressedKey, ,1595602910450,1,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Key,word3_key,PressedKey, ,1595602910814,1,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Key,word4_key,PressedKey, ,1595602911057,1,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Key,word5_key,PressedKey, ,1595602911345,1,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,Scale,scale,Choice,2,1595602912399,1,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,9,0,trials,NULL,PennController,10,_Trial_,End,1595602912913,1,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,PennController,42,_Trial_,Start,1595602912915,33,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Key,start,PressedKey, ,1595602913575,33,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Button,context_button,Click,Click,1595602915837,33,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Key,word1_key,PressedKey, ,1595602916323,33,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Key,word2_key,PressedKey, ,1595602916568,33,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Key,word3_key,PressedKey, ,1595602916797,33,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Key,word4_key,PressedKey, ,1595602916999,33,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Key,word5_key,PressedKey, ,1595602917212,33,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,Scale,scale,Choice,3,1595602918401,33,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,41,0,trials,NULL,PennController,42,_Trial_,End,1595602919337,33,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,PennController,56,_Trial_,Start,1595602919338,7,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Key,start,PressedKey, ,1595602920112,7,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Button,context_button,Click,Click,1595602921028,7,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Key,word1_key,PressedKey, ,1595602921539,7,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Key,word2_key,PressedKey, ,1595602921857,7,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Key,word3_key,PressedKey, ,1595602922094,7,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Key,word4_key,PressedKey, ,1595602922326,7,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Key,word5_key,PressedKey, ,1595602922560,7,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,Scale,scale,Choice,1,1595602923741,7,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,55,0,trials,NULL,PennController,56,_Trial_,End,1595602924440,7,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,PennController,26,_Trial_,Start,1595602924441,17,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Key,start,PressedKey, ,1595602925317,17,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Button,context_button,Click,Click,1595602926195,17,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Key,word1_key,PressedKey, ,1595602926528,17,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Key,word2_key,PressedKey, ,1595602926831,17,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Key,word3_key,PressedKey, ,1595602927091,17,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Key,word4_key,PressedKey, ,1595602927305,17,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Key,word5_key,PressedKey, ,1595602927708,17,high,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,Scale,scale,Choice,4,1595602928953,17,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,25,0,trials,NULL,PennController,26,_Trial_,End,1595602929643,17,high,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,PennController,67,_Trial_,Start,1595602929645,17,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Key,start,PressedKey, ,1595602930499,17,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Button,context_button,Click,Click,1595602931379,17,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Key,word1_key,PressedKey, ,1595602931928,17,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Key,word2_key,PressedKey, ,1595602932138,17,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Key,word3_key,PressedKey, ,1595602932335,17,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Key,word4_key,PressedKey, ,1595602932533,17,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Key,word5_key,PressedKey, ,1595602932730,17,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,Scale,scale,Choice,4,1595602933911,17,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,66,0,trials,NULL,PennController,67,_Trial_,End,1595602934621,17,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,PennController,60,_Trial_,Start,1595602934623,11,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Key,start,PressedKey, ,1595602935431,11,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Button,context_button,Click,Click,1595602936142,11,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Key,word1_key,PressedKey, ,1595602936606,11,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Key,word2_key,PressedKey, ,1595602936862,11,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Key,word3_key,PressedKey, ,1595602937075,11,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Key,word4_key,PressedKey, ,1595602937291,11,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Key,word5_key,PressedKey, ,1595602937526,11,high,e,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,Scale,scale,Choice,4,1595602938697,11,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,59,0,trials,NULL,PennController,60,_Trial_,End,1595602939403,11,high,e,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,PennController,22,_Trial_,Start,1595602939405,13,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Key,start,PressedKey, ,1595602940217,13,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Button,context_button,Click,Click,1595602941375,13,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Key,word1_key,PressedKey, ,1595602941864,13,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Key,word2_key,PressedKey, ,1595602942123,13,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Key,word3_key,PressedKey, ,1595602942328,13,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Key,word4_key,PressedKey, ,1595602942538,13,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Key,word5_key,PressedKey, ,1595602942768,13,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,Scale,scale,Choice,2,1595602943668,13,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,21,0,trials,NULL,PennController,22,_Trial_,End,1595602944119,13,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,PennController,49,_Trial_,Start,1595602944122,40,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Key,start,PressedKey, ,1595602944935,40,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Button,context_button,Click,Click,1595602945728,40,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Key,word1_key,PressedKey, ,1595602946251,40,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Key,word2_key,PressedKey, ,1595602946617,40,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Key,word3_key,PressedKey, ,1595602946882,40,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Key,word4_key,PressedKey, ,1595602947135,40,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Key,word5_key,PressedKey, ,1595602947372,40,high,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,Scale,scale,Choice,3,1595602948220,40,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,48,0,trials,NULL,PennController,49,_Trial_,End,1595602948881,40,high,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,PennController,70,_Trial_,Start,1595602948883,21,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Key,start,PressedKey, ,1595602949604,21,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Button,context_button,Click,Click,1595602950524,21,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Key,word1_key,PressedKey, ,1595602951299,21,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Key,word2_key,PressedKey, ,1595602951533,21,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Key,word3_key,PressedKey, ,1595602951751,21,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Key,word4_key,PressedKey, ,1595602951958,21,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Key,word5_key,PressedKey, ,1595602952171,21,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,Scale,scale,Choice,1,1595602953109,21,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,69,0,trials,NULL,PennController,70,_Trial_,End,1595602953727,21,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,PennController,14,_Trial_,Start,1595602953729,5,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Key,start,PressedKey, ,1595602954837,5,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Button,context_button,Click,Click,1595602955526,5,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Key,word1_key,PressedKey, ,1595602956030,5,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Key,word2_key,PressedKey, ,1595602956331,5,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Key,word3_key,PressedKey, ,1595602956546,5,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Key,word4_key,PressedKey, ,1595602956780,5,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Key,word5_key,PressedKey, ,1595602956987,5,low,g,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,Scale,scale,Choice,2,1595602957780,5,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,13,0,trials,NULL,PennController,14,_Trial_,End,1595602958484,5,low,g,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,PennController,11,_Trial_,Start,1595602958485,2,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Key,start,PressedKey, ,1595602959298,2,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Button,context_button,Click,Click,1595602960317,2,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Key,word1_key,PressedKey, ,1595602960727,2,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Key,word2_key,PressedKey, ,1595602960995,2,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Key,word3_key,PressedKey, ,1595602961243,2,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Key,word4_key,PressedKey, ,1595602961467,2,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Key,word5_key,PressedKey, ,1595602961684,2,low,j,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,Scale,scale,Choice,5,1595602962963,2,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,10,0,trials,NULL,PennController,11,_Trial_,End,1595602963707,2,low,j,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,PennController,61,_Trial_,Start,1595602963709,11,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Key,start,PressedKey, ,1595602964523,11,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Button,context_button,Click,Click,1595602965459,11,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Key,word1_key,PressedKey, ,1595602965842,11,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Key,word2_key,PressedKey, ,1595602966108,11,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Key,word3_key,PressedKey, ,1595602966324,11,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Key,word4_key,PressedKey, ,1595602966535,11,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Key,word5_key,PressedKey, ,1595602966736,11,low,d,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,Scale,scale,Choice,1,1595602967815,11,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,60,0,trials,NULL,PennController,61,_Trial_,End,1595602968427,11,low,d,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,PennController,59,_Trial_,Start,1595602968428,9,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Key,start,PressedKey, ,1595602969194,9,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Button,context_button,Click,Click,1595602969924,9,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Key,word1_key,PressedKey, ,1595602970401,9,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Key,word2_key,PressedKey, ,1595602970623,9,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Key,word3_key,PressedKey, ,1595602970834,9,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Key,word4_key,PressedKey, ,1595602971045,9,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Key,word5_key,PressedKey, ,1595602971234,9,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,Scale,scale,Choice,2,1595602972110,9,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,58,0,trials,NULL,PennController,59,_Trial_,End,1595602973131,9,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,PennController,50,_Trial_,Start,1595602973133,1,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Key,start,PressedKey, ,1595602973940,1,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Button,context_button,Click,Click,1595602974856,1,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Key,word1_key,PressedKey, ,1595602975261,1,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Key,word2_key,PressedKey, ,1595602975507,1,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Key,word3_key,PressedKey, ,1595602975727,1,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Key,word4_key,PressedKey, ,1595602975936,1,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Key,word5_key,PressedKey, ,1595602976134,1,high,c,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,Scale,scale,Choice,3,1595602976887,1,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,49,0,trials,NULL,PennController,50,_Trial_,End,1595602977375,1,high,c,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,PennController,37,_Trial_,Start,1595602977377,28,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Key,start,PressedKey, ,1595602978141,28,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Button,context_button,Click,Click,1595602978902,28,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Key,word1_key,PressedKey, ,1595602979212,28,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Key,word2_key,PressedKey, ,1595602979519,28,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Key,word3_key,PressedKey, ,1595602979738,28,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Key,word4_key,PressedKey, ,1595602979946,28,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Key,word5_key,PressedKey, ,1595602980144,28,low,h,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,Scale,scale,Choice,2,1595602981185,28,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,36,0,trials,NULL,PennController,37,_Trial_,End,1595602981687,28,low,h,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,PennController,40,_Trial_,Start,1595602981689,31,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Key,start,PressedKey, ,1595602982417,31,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Button,context_button,Click,Click,1595602983361,31,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Key,word1_key,PressedKey, ,1595602983664,31,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Key,word2_key,PressedKey, ,1595602983915,31,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Key,word3_key,PressedKey, ,1595602984278,31,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Key,word4_key,PressedKey, ,1595602984539,31,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Key,word5_key,PressedKey, ,1595602984755,31,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,Scale,scale,Choice,2,1595602985975,31,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,39,0,trials,NULL,PennController,40,_Trial_,End,1595602986619,31,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,PennController,36,_Trial_,Start,1595602986621,27,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Key,start,PressedKey, ,1595602987423,27,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Button,context_button,Click,Click,1595602988822,27,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Key,word1_key,PressedKey, ,1595602989152,27,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Key,word2_key,PressedKey, ,1595602989461,27,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Key,word3_key,PressedKey, ,1595602989756,27,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Key,word4_key,PressedKey, ,1595602990018,27,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Key,word5_key,PressedKey, ,1595602990239,27,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,Scale,scale,Choice,3,1595602992007,27,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,35,0,trials,NULL,PennController,36,_Trial_,End,1595602992525,27,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,PennController,51,_Trial_,Start,1595602992526,1,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Key,start,PressedKey, ,1595602993267,1,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Button,context_button,Click,Click,1595602994076,1,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Key,word1_key,PressedKey, ,1595602994409,1,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Key,word2_key,PressedKey, ,1595602994686,1,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Key,word3_key,PressedKey, ,1595602994913,1,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Key,word4_key,PressedKey, ,1595602995140,1,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Key,word5_key,PressedKey, ,1595602995357,1,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,Scale,scale,Choice,5,1595602996440,1,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,50,0,trials,NULL,PennController,51,_Trial_,End,1595602997026,1,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,PennController,12,_Trial_,Start,1595602997027,3,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Key,start,PressedKey, ,1595602997797,3,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Button,context_button,Click,Click,1595602998616,3,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Key,word1_key,PressedKey, ,1595602999019,3,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Key,word2_key,PressedKey, ,1595602999377,3,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Key,word3_key,PressedKey, ,1595602999601,3,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Key,word4_key,PressedKey, ,1595602999883,3,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Key,word5_key,PressedKey, ,1595603000116,3,low,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,Scale,scale,Choice,1,1595603001632,3,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,11,0,trials,NULL,PennController,12,_Trial_,End,1595603002323,3,low,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,PennController,87,_Trial_,Start,1595603002325,37,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Key,start,PressedKey, ,1595603003134,37,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Button,context_button,Click,Click,1595603004200,37,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Key,word1_key,PressedKey, ,1595603005150,37,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Key,word2_key,PressedKey, ,1595603005643,37,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Key,word3_key,PressedKey, ,1595603006116,37,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Key,word4_key,PressedKey, ,1595603006479,37,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Key,word5_key,PressedKey, ,1595603006742,37,low,f,Filler,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,Scale,scale,Choice,2,1595603007851,37,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,86,0,trials,NULL,PennController,87,_Trial_,End,1595603008399,37,low,f,Filler,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,PennController,32,_Trial_,Start,1595603008401,23,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Key,start,PressedKey, ,1595603009302,23,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Button,context_button,Click,Click,1595603010077,23,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Key,word1_key,PressedKey, ,1595603010420,23,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Key,word2_key,PressedKey, ,1595603010701,23,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Key,word3_key,PressedKey, ,1595603010958,23,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Key,word4_key,PressedKey, ,1595603011165,23,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Key,word5_key,PressedKey, ,1595603011365,23,high,i,Critical,Wait success
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,Scale,scale,Choice,4,1595603012181,23,high,i,Critical,NULL
+1595603014,3efaefc21f3cf4e785e173eeac109f02,PennController,31,0,trials,NULL,PennController,32,_Trial_,End,1595603012673,23,high,i,Critical,NULL
